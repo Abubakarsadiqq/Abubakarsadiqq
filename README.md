@@ -1,4 +1,4 @@
-Hi 👋 , My name i'm Rh@zes
+Hi 👋 , My name i'm Rhazi
 ===============================
 
 Front-end Developer
